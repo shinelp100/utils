@@ -1,0 +1,22 @@
+{
+  "name": "lhjx",
+  "version": "1.0.0",
+  "description": "utils for lhjx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinelp100/utils.git"
+  },
+  "keywords": [
+    "lhjx"
+  ],
+  "author": "shinelp100",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shinelp100/utils/issues"
+  },
+  "homepage": "https://github.com/shinelp100/utils#readme"
+}
